@@ -1,6 +1,8 @@
 # zy_confuseTest
 OC code confuse test Demo
 
+JSPatch的手动混淆可以参照上面代码
+
 
 # 参考链接
 1. [念茜的博客-安全攻防](http://blog.csdn.net/yiyaaixuexi/article/details/29201699)
